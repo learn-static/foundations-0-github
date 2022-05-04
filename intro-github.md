@@ -1,10 +1,14 @@
 # Introduction to GitHub
 
+This module will walk you through setting up your GitHub account, and will introduce you to some common tasks that can be completed through the GitHub interface.
+
 Before we get started, let's clarify some terms:
 
 [Git](https://git-scm.com/) is a popular free, distributed version control system–i.e. a piece of software used to track the history of changes in a folder of files. Git can be used on your personal computer, or by online services to track the development of a project, such as…
 
 [GitHub](https://github.com/), a popular web platform for hosting Git repositories–i.e. a place to store and sync your project files online. Think of it as Google Drive for code with super robust "track changes" baked in. Built around the powerful version control of Git, it provides a handy web interface for managing, editing, and collaborating on repositories.
+
+The steps below will familiarize you with the GitHub platform, and with how it tracks the changes you make to your files.
 
 ## Step 1. Create a GitHub account
 
