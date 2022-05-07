@@ -64,17 +64,17 @@ Your "commit message" is a short description of what the changes do or why you m
 1. To commit the changes you just made to your README file, scroll to the bottom of the page where you made your README edits. You'll see a box titled "Commit changes."
 2. In the text box directly underneath "Commit changes," type `update project title`, or a brief message of your choosing that indicates what changes you made to this file.
 3. Skip the option to add an extended description to the commit, and keep the box checked next to "Commit directly to the main branch". (Note that you can add an extended description of your changes if you need to, but usually a brief commit message will work just fine).
-4. Click on the green "Commit changes" button. This will take you back to your repository's homepage.
+4. Click on the green "Commit changes" button. This will save your changes and take you back to your repository's home page.
 5. Scroll down to the bottom of your repository to view the new title you added to the README file.
 
-You can view recent commits on your repository's homepage.
+You can view recent commits on your repository's home page.
 Commit messages and their timestamps are located to the right of the repository files.
 
 ## Step 5. View the Changes
 
 Let's take a closer look at the changes you've made to the README file:
 
-1. On your repository's homepage, locate the README.md file link. To the right of the link, you should see the commit message you just created (it should say `update project title`).
+1. On your repository's home page, scroll back up and locate the README.md file link. To the right of the link, you should see the commit message you just created (it should say `update project title`).
 2. Click on this commit message (*not* on the filename).
 
 When you click the commit message, GitHub will show you the changes made and the files edited during that commit. 
